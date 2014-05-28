@@ -1,0 +1,3 @@
+For file parallella_gen1_SOB_case.svg:
+Parallella Gen1 PCB size 86mmx54mm (86.36mm x 53.34mm (3.4’’ x 2.15’’))
+Laser cutting size 327mm => Seeed Studio Difficulty Easy (Length of Cutting line Below 60cm)
