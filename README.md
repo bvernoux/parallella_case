@@ -10,3 +10,7 @@ http://dangerousprototypes.com/docs/Customizing_Sick_of_Beige_cases_for_laser_cu
 For more information on parallella hardware see http://parallella.org
 
 All files in this directory are fully open source following "CC BY" licence (any version).
+
+![Parallella and SOB case](Parallella_and_SOB_case.jpg)
+
+![Parallella SOB case dimension](parallella_gen1_SOB_case_dimensions.jpg)
